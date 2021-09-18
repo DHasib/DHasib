@@ -1,3 +1,9 @@
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=DK%20Hasib&fontSize=50&animation=auto&fontAlign=18&fontAlignY=18&desc=A%20Passionate%20Full-Stackgtgt%20Web%20Developer'<br/>'hasib.&descAlignY=50&descAlign=25&)
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Nahid%20Ferdous&fontSize=80&animation=fadeIn&fontAlignY=38&desc=A%20Passionate%20Full-Stack%20Web%20Developer.&descAlignY=51&descAlign=62) -->
+
+<!-- &desc=A%20Passionate%20Full-Stack%20Web%20Developer.&descAlignY=18&descAlign=1 -->
+
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 
@@ -84,17 +90,12 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/subhamraoniar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/subhamraoniar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href = "https://www.linkedin.com/in/md-hasib-50030713a/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+
 
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=DHasib">
-</a>
 <a href="https://github.com/DHasib?tab=followers"><img src="https://img.shields.io/github/followers/DHasib?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
