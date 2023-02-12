@@ -95,17 +95,17 @@
 
 </p>
 
-## ❤ Views and Followers
-<a href="https://github.com/DHasib?tab=followers"><img src="https://img.shields.io/github/followers/DHasib?label=Followers&style=social" alt="GitHub Badge"></a>
+<!-- ## ❤ Views and Followers -->
+<!-- <a href="https://github.com/DHasib?tab=followers"><img src="https://img.shields.io/github/followers/DHasib?label=Followers&style=social" alt="GitHub Badge"></a> -->
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DHasib&label=Profile%20views&color=129e00&style=plastic" alt="DHasib" /> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
-
-
-
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=DHasib&label=Profile%20views&color=129e00&style=plastic" alt="DHasib" /> </p> -->
+<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"> -->
 
 
 
 
-<p align="left">   </p>
+
+
+
+<!-- <p align="left">   </p> -->
