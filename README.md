@@ -121,7 +121,7 @@ Here are some recent IT solutions I've worked on:
    - **Problem Addressed:** Addressed the need for scalability and improved performance in a complex system, resulting in reduced response times and enhanced system reliability.
 
 
-## ⭐⭐ I do Awesome Services for our Clients at Crafting Innovative Solutions with Code 
+## ⭐ I do Awesome Services for our Clients at Crafting Innovative Solutions with Code 
 
 <table align="left">
    <tr>
