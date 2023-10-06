@@ -1,28 +1,81 @@
-<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=DK%20Hasib&fontSize=50&animation=auto&fontAlign=18&fontAlignY=18&desc=A%20Passionate%20Full-Stackgtgt%20Web%20Developer'<br/>'hasib.&descAlignY=50&descAlign=25&)
+<a href="#"><img width="100%" height="auto" src="https://media.licdn.com/dms/image/D5616AQGe-vInRYc3eg/profile-displaybackgroundimage-shrink_350_1400/0/1684697475107?e=1701907200&v=beta&t=XC3tPLxk5JzBMfzulMCsVNA8akt0HKo5C5D4SoxtYdQ" height="175px"/></a>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Nahid%20Ferdous&fontSize=80&animation=fadeIn&fontAlignY=38&desc=A%20Passionate%20Full-Stack%20Web%20Developer.&descAlignY=51&descAlign=62) -->
+## 🙋‍♂️ Who I Am?
 
-<!-- &desc=A%20Passionate%20Full-Stack%20Web%20Developer.&descAlignY=18&descAlign=1 -->
+ - 🖥 A Graduated Software Engineer from University of Greenwich, UK
+   
+ - 🚀 I'm Passionate About Delivering Effective IT Solutions that Address Real-World Challenges. Here's how I contribute to solving problems:
+   
+   1. **Client-Centric Approach:** I prioritize understanding the unique needs of clients and businesses, ensuring that the solutions provided align with their goals and 
+       objectives.
+   2. **Innovation and Technology:** I leverage the latest technologies and innovative approaches to develop IT solutions that are not only efficient but also scalable and future-proof.
+   3. **Problem-Solving Mindset:** I thrive on solving complex problems through strategic thinking, coding expertise, and a deep understanding of industry best practices.
+   4. **Collaboration and Communication:** I believe in transparent and open communication throughout the development process. Collaborating with stakeholders and team members is essential to delivering successful IT solutions.
+   5. **User Experience:** I place a strong emphasis on user experience, designing interfaces and systems that are intuitive, user-friendly, and tailored to the specific needs of end-users.
+  
 
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+## 🔭 What I'm Doing ?
+  - 🏢 I’m Currently Working as an End-to-End Software Engineer for USA, UK, AUS & Canadian Clients. (Freelance Based)
+  
+  - 🌱 I'm always eager to learn new technologies and improve my skills. Currently, I'm focused on:
+     - ***Data Structures and Algorithms.***
+     - ***DevOps Practices.***
+     - ***Clean Code.***
+     - ***Test Driven Development (TDD).***
+     - ***Domain Driven Development (DDD).***
+     - ***SOLID Principle and Software Design Patterns.***
+     
+   - 🛠️ Working on Web Development, Server Deployment, Web API, SaaS Application and Micro-Services professionally.
+
+   - 👯 I’m looking to collaborate on **OpenSource Projects**
+
+   - 📫 How to reach me **mdhasib522@gmail.com**
+
+   - ⚡ Fun fact ***I play games and love to spent time in my birds aviary.***
+     
+   - 🌍 Mostly active on [LinkedIn](https://www.linkedin.com/in/md-hasib-50030713a).
 
 
-<h3 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">I'm a Passionate Programmer And Code Lover.</h3> <br><br>
+## 🎯 What is My Vision ?
+
+My vision is to contribute to building scalable and innovative solutions that make a positive impact on people's lives. I believe in the power of technology to solve complex problems and I'm committed to creating software that is not only functional but also user-friendly and elegant.
+
+## 🛣️ What Steps did I Take to Achieve My Vision?
+
+To achieve my vision, I follow these steps:
+
+1. **Continuous Learning:** Stay updated with the latest technologies and best practices.
+2. **Collaboration:** Actively participate in open-source projects and collaborate with other developers.
+3. **Mentoring:** Share my knowledge and mentor aspiring developers.
+4. **User-Centric Design:** Prioritize user experience and design in software development.
+5. **Community Involvement:** Contribute to the tech community through events, workshops, and discussions.
+
+## 🤔 What my skill set looks like?
 
 
 
-# 🙋‍♂️ My Current Status
 
- 🔭 I’m currently attached with   **[DREAM ARRAY](https://dreamarray.com/)** Company
 
-  🌱 I’m currently learning ***Data Structures and Algorithms.***
 
-  👯 I’m looking to collaborate on **OpenSource Projects**
 
-  📫 How to reach me **mdhasib522@gmail.com**
+ 
+ ## 💬What I like to disscuss about ?
+  Feel free to reach out and ask me about:
+  
+  - **Web API System Design:** I'm passionate about designing scalable and robust web API architectures. Whether it's RESTful APIs or GraphQL, let's discuss best practices and optimal design patterns.
+  
+  - **Scalability:** If you're curious about strategies for scaling applications, optimizing performance, and handling increased loads, let's dive into the world of scalability.
+  
+  - **Design Patterns:** I love exploring different design patterns and their practical applications in software development. Let's chat about how design patterns can enhance the maintainability and flexibility of your codebase.
+  
+  - **Data Structures:** Whether it's algorithms, data structures, or optimizing code for efficiency, I'm always up for a conversation about structuring data to meet specific needs.
+  
+  - **Clean Code:** Writing clean, readable, and maintainable code is crucial. If you have questions about best practices, code organization, or code reviews, let's exchange ideas on how to keep our codebases pristine.
+  
+  - **Choice of Frameworks:** Choosing the right framework for a project is a critical decision. Let's discuss the strengths and weaknesses of various frameworks and how they align with specific project requirements.
 
- ⚡ Fun fact ***I play games and love to spent time in my birds aviary.***<br><br><br>
 
+ 
 
 # 🚀 Skills:
 
