@@ -12,8 +12,8 @@
    3. **Problem-Solving Mindset:** I thrive on solving complex problems through strategic thinking, coding expertise, and a deep understanding of industry best practices.
    4. **Collaboration and Communication:** I believe in transparent and open communication throughout the development process. Collaborating with stakeholders and team members is essential to delivering successful IT solutions.
    5. **User Experience:** I place a strong emphasis on user experience, designing interfaces and systems that are intuitive, user-friendly, and tailored to the specific needs of end-users.
+  <br>
   
-
 ## 🔭 What I'm Doing ?
   - 🏢 I’m Currently Working as an End-to-End Software Engineer for USA, UK, AUS & Canadian Clients. (Freelance Based)
   
@@ -34,14 +34,14 @@
    - ⚡ Fun fact ***I play games and love to spent time in my birds aviary.***
      
    - 🌍 Mostly active on [LinkedIn](https://www.linkedin.com/in/md-hasib-50030713a).
-
+<br>
 
 ## 🎯 What is My Vision ?
 
 My vision is to contribute to building scalable and innovative solutions that make a positive impact on people's lives. I believe in the power of technology to solve complex problems and I'm committed to creating software that is not only functional but also user-friendly and elegant.
+<br>
 
 ## 🛣️ What Steps did I Take to Achieve My Vision?
-
 To achieve my vision, I follow these steps:
 
 1. **Continuous Learning:** Stay updated with the latest technologies and best practices.
@@ -49,17 +49,46 @@ To achieve my vision, I follow these steps:
 3. **Mentoring:** Share my knowledge and mentor aspiring developers.
 4. **User-Centric Design:** Prioritize user experience and design in software development.
 5. **Community Involvement:** Contribute to the tech community through events, workshops, and discussions.
+<br>
 
-## 🤔 What my skill set looks like?
+## 🤔 What My Skill Set Looks Like?
+### 🖥 Front-end:
 
+- 📜 ***Languages:*** • 🧙🏻 JavaScript • 🧚🏻‍♂️ HTML • 👨🏻‍🎨 CSS
+- 🔬 ***Frameworks:***
+  - 🌐 **Web:** • Vue.js • Bootstrape • Tailwind
+  - 📱 **Mobile:** • Quasar.js
 
+### 🗄️ Back-end:
 
+- 📜***Languages:*** • PHP • Golang
+- 🔭 ***Frameworks:*** • Laravel • Fiber  • Gin-Gonic
+- 💾 ***Databases:*** • PostgreSQL  • MySql • FireStore(NoSql)
+- 🎛 ***System architecture:*** • Monolithic • Microservices
+- 🔌 ***Communication protocols:*** • REST • gRPC • Web Socket
+  
+### 🎡 Software Development Ecosystem:
+  - 📁 **Code repository:** • Git • BitBucket • Gitlab
+  - 🗃 **Project management:** • Trello • Timyste  • Redmine
+  - 🗂 **CI/CD:** • Github Actions, • jenkins
+  - 🗃 **DevOps:** • Docker • Nginx
+  - 👨🏽‍💻 **OS:** • Linux • Windows
+  - 🔨 **Tools:** • Postman • Figma • Photoshop • Illustrator
+    
+### 🗜 Principles: 
+   -  DRY • DDD • SOLID
 
+### 🕹 Frameworks: 
+   -  SCRUM • DSDM-Atern • Waterfall-Model
 
+### 🤖 Cloud Computing: 
+   -  GCP
 
-
+### 🏗️ Code editors:  
+   -  VsCode • GoLand
+<br>
  
- ## 💬What I like to disscuss about ?
+ ## 💬 What I like to Disscuss About ?
   Feel free to reach out and ask me about:
   
   - **Web API System Design:** I'm passionate about designing scalable and robust web API architectures. Whether it's RESTful APIs or GraphQL, let's discuss best practices and optimal design patterns.
@@ -72,54 +101,40 @@ To achieve my vision, I follow these steps:
   
   - **Clean Code:** Writing clean, readable, and maintainable code is crucial. If you have questions about best practices, code organization, or code reviews, let's exchange ideas on how to keep our codebases pristine.
   
-  - **Choice of Frameworks:** Choosing the right framework for a project is a critical decision. Let's discuss the strengths and weaknesses of various frameworks and how they align with specific project requirements.
+  - **Choice of Frameworks:** Choosing the right framework for a project is a critical decision. Let's discuss the strengths and weaknesses of various frameworks and how they align with specific project requirements.<br>
 
+## 🗣 What Methodology or Approach I Used Most ?
+ - **[OOP](https://en.wikipedia.org/wiki/Object-oriented_programming)** (Object-Oriented Programming)
 
+- **[OOAD](https://en.wikipedia.org/wiki/Object-oriented_analysis_and_design)** (Object-Oriented Analysis and Design)
+
+ - **[Agile & Scrum](https://www.businessnewsdaily.com/4987-what-is-agile-scrum-methodology.html)** Methodology
  
+  - **[Functional](https://www.geeksforgeeks.org/functional-programming-paradigm/)** Programming
+ <br>
 
-# 🚀 Skills:
+## 🤔 How I Can Help ?
+Whether you're a business looking for IT solutions or a fellow developer seeking collaboration, I'm here to help. Let's connect and discuss how we can work together to address your IT challenges. <br>
 
-<p align="left"> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-    <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-    <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a>
-    <a href="https://quasar.dev/" target="_blank"> <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" alt="quasar" width="40" height="40"/> </a>
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-     <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-  <a href="https://wordpress.com/" target="_blank"><img  src="https://img.icons8.com/color/48/000000/wordpress.png" alt="oracle" width="40" height="40" /></a>
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
- <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <br><br><br><br>
-</p>
+## ⚡ Recent IT Solutions:
+Here are some recent IT solutions I've worked on:
+
+1. **[Saas Project Using Golang]:** 
+   - **Description:** Developed a Software as a Service (SaaS) application using Golang that provides real-time collaboration tools for remote teams.
+   - **Impact:** This solution streamlined team communication, resulting in a 20% increase in project efficiency.
+
+2. **[Quasar SPA]:** 
+   - **Brief Overview:** Created a Single Page Application (SPA) using the Quasar framework, focusing on delivering a responsive and engaging user interface.
+   - **Key Features:** Implemented dynamic content loading, real-time updates, and seamless navigation for an enhanced user experience.
+
+3. **[Microservices Using Golang and gRPC]:** 
+   - **Details on Technology Stack:** Engineered a microservices architecture using Golang and integrated gRPC for communication between services. Utilized MongoDB for data storage and Docker for containerization.
+   - **Problem Addressed:** Addressed the need for scalability and improved performance in a complex system, resulting in reduced response times and enhanced system reliability.
 
 
 
-# Methodology or Approach I Used Most
-
- -**[OOP](https://en.wikipedia.org/wiki/Object-oriented_programming)** (Object-Oriented Programming)
-
--**[OOAD](https://en.wikipedia.org/wiki/Object-oriented_analysis_and_design)** (Object-Oriented Analysis and Design)
-
- -**[Agile & Scrum](https://www.businessnewsdaily.com/4987-what-is-agile-scrum-methodology.html)** Methodology<br><br><br>
 
 
-
-#  My Streak Stats
-
-<p align="center">
-    <a href="https://github.com/DHasib/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DK Hasib streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DHasib&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
 
 
 
@@ -145,20 +160,6 @@ To achieve my vision, I follow these steps:
 
 <a href = "https://www.linkedin.com/in/md-hasib-50030713a/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
-
 </p>
 
-<!-- ## ❤ Views and Followers -->
-<!-- <a href="https://github.com/DHasib?tab=followers"><img src="https://img.shields.io/github/followers/DHasib?label=Followers&style=social" alt="GitHub Badge"></a> -->
 
-
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=DHasib&label=Profile%20views&color=129e00&style=plastic" alt="DHasib" /> </p> -->
-<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"> -->
-
-
-
-
-
-
-
-<!-- <p align="left">   </p> -->
