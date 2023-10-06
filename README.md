@@ -73,22 +73,7 @@ To achieve my vision, I follow these steps:
     - **🗜 Principles:** •  DRY • DDD • SOLID
     - **🕹 Frameworks:** •  SCRUM • DSDM-Atern • Waterfall-Model
     - **🤖 Cloud Computing:** •  GCP
-    - **🏗️ Code editors:**  •  VsCode • GoLand <br>
-
-
-## 💬 What I like to Disscuss About ?
-  Feel free to reach out and ask me about:
-  - **Web API System Design:** I'm passionate about designing scalable and robust web API architectures. Whether it's RESTful APIs or GraphQL, let's discuss best practices and optimal design patterns.
-  
-  - **Scalability:** If you're curious about strategies for scaling applications, optimizing performance, and handling increased loads, let's dive into the world of scalability.
-  
-  - **Design Patterns:** I love exploring different design patterns and their practical applications in software development. Let's chat about how design patterns can enhance the maintainability and flexibility of your codebase.
-  
-  - **Data Structures:** Whether it's algorithms, data structures, or optimizing code for efficiency, I'm always up for a conversation about structuring data to meet specific needs.
-  
-  - **Clean Code:** Writing clean, readable, and maintainable code is crucial. If you have questions about best practices, code organization, or code reviews, let's exchange ideas on how to keep our codebases pristine.
-  
-  - **Choice of Frameworks:** Choosing the right framework for a project is a critical decision. Let's discuss the strengths and weaknesses of various frameworks and how they align with specific project requirements.
+    - **🏗️ Code editors:**  •  VsCode • GoLand 
     
 
 ## 🗣 What Methodology or Approach I Used Most ?
@@ -181,6 +166,22 @@ Here are some recent IT solutions I've worked on:
    
   </tr>
  </table>
+
+ 
+
+## 💬 What I like to Disscuss About ?
+  Feel free to reach out and ask me about:
+  - **Web API System Design:** I'm passionate about designing scalable and robust web API architectures. Whether it's RESTful APIs or GraphQL, let's discuss best practices and optimal design patterns.
+  
+  - **Scalability:** If you're curious about strategies for scaling applications, optimizing performance, and handling increased loads, let's dive into the world of scalability.
+  
+  - **Design Patterns:** I love exploring different design patterns and their practical applications in software development. Let's chat about how design patterns can enhance the maintainability and flexibility of your codebase.
+  
+  - **Data Structures:** Whether it's algorithms, data structures, or optimizing code for efficiency, I'm always up for a conversation about structuring data to meet specific needs.
+  
+  - **Clean Code:** Writing clean, readable, and maintainable code is crucial. If you have questions about best practices, code organization, or code reviews, let's exchange ideas on how to keep our codebases pristine.
+  
+  - **Choice of Frameworks:** Choosing the right framework for a project is a critical decision. Let's discuss the strengths and weaknesses of various frameworks and how they align with specific project requirements.
 
 
 ## 📊 My Github Stats
