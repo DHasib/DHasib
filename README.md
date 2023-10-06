@@ -24,11 +24,11 @@
      - ***Domain Driven Development (DDD).***
      - ***SOLID Principle and Software Design Patterns.***
      
-   - 🛠️ Working on Web Development, Server Deployment, Web API, SaaS Application and Micro-Services professionally.
+   - 🛠️ Working on Web Development, Server Deployment, Web API, SaaS Application and Micro-Services Professionally.
 
    - 👯 I’m looking to Collaborate on **OpenSource Projects**
 
-   - 📫 How to reach me **mdhasib522@gmail.com**
+   - 📫 How to Reach me **mdhasib522@gmail.com**
 
    - ⚡ Fun fact ***I play games and love to spent time in my birds aviary.***
      
