@@ -1,7 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://media.licdn.com/dms/image/D5616AQGe-vInRYc3eg/profile-displaybackgroundimage-shrink_350_1400/0/1684697475107?e=1701907200&v=beta&t=XC3tPLxk5JzBMfzulMCsVNA8akt0HKo5C5D4SoxtYdQ" height="175px"/></a>
 
 ## 🙋‍♂️ Who I Am?
-
  - 🖥 A Graduated Software Engineer from University of Greenwich, UK
    
  - 🚀 I'm Passionate About Delivering Effective IT Solutions that Address Real-World Challenges. Here's how I contribute to solving problems:
@@ -12,12 +11,12 @@
    3. **Problem-Solving Mindset:** I thrive on solving complex problems through strategic thinking, coding expertise, and a deep understanding of industry best practices.
    4. **Collaboration and Communication:** I believe in transparent and open communication throughout the development process. Collaborating with stakeholders and team members is essential to delivering successful IT solutions.
    5. **User Experience:** I place a strong emphasis on user experience, designing interfaces and systems that are intuitive, user-friendly, and tailored to the specific needs of end-users.
-  <br>
+
   
 ## 🔭 What I'm Doing ?
   - 🏢 I’m Currently Working as an End-to-End Software Engineer for USA, UK, AUS & Canadian Clients. (Freelance Based)
   
-  - 🌱 I'm always eager to learn new technologies and improve my skills. Currently, I'm focused on:
+  - 🌱 I'm Always Eager to Learn New Technologies and Improve my Skills. Currently, I'm Focused on:
      - ***Data Structures and Algorithms.***
      - ***DevOps Practices.***
      - ***Clean Code.***
@@ -27,70 +26,58 @@
      
    - 🛠️ Working on Web Development, Server Deployment, Web API, SaaS Application and Micro-Services professionally.
 
-   - 👯 I’m looking to collaborate on **OpenSource Projects**
+   - 👯 I’m looking to Collaborate on **OpenSource Projects**
 
    - 📫 How to reach me **mdhasib522@gmail.com**
 
    - ⚡ Fun fact ***I play games and love to spent time in my birds aviary.***
      
    - 🌍 Mostly active on [LinkedIn](https://www.linkedin.com/in/md-hasib-50030713a).
-<br>
+
 
 ## 🎯 What is My Vision ?
-
 My vision is to contribute to building scalable and innovative solutions that make a positive impact on people's lives. I believe in the power of technology to solve complex problems and I'm committed to creating software that is not only functional but also user-friendly and elegant.
-<br>
+
 
 ## 🛣️ What Steps did I Take to Achieve My Vision?
 To achieve my vision, I follow these steps:
-
 1. **Continuous Learning:** Stay updated with the latest technologies and best practices.
 2. **Collaboration:** Actively participate in open-source projects and collaborate with other developers.
 3. **Mentoring:** Share my knowledge and mentor aspiring developers.
 4. **User-Centric Design:** Prioritize user experience and design in software development.
 5. **Community Involvement:** Contribute to the tech community through events, workshops, and discussions.
-<br>
+
 
 ## 🤔 What My Skill Set Looks Like?
-### 🖥 Front-end:
+- 🖥 **Front-end:**
+   - 📜 ***Languages:*** • 🧙🏻 JavaScript • 🧚🏻‍♂️ HTML • 👨🏻‍🎨 CSS
+   - 🔬 ***Frameworks:***
+     - 🌐 **Web:** • Vue.js • Bootstrape • Tailwind
+     - 📱 **Mobile:** • Quasar.js
 
-- 📜 ***Languages:*** • 🧙🏻 JavaScript • 🧚🏻‍♂️ HTML • 👨🏻‍🎨 CSS
-- 🔬 ***Frameworks:***
-  - 🌐 **Web:** • Vue.js • Bootstrape • Tailwind
-  - 📱 **Mobile:** • Quasar.js
+- 🗄️ **Back-end:**
+   - 📜***Languages:*** • PHP • Golang
+   - 🔭 ***Frameworks:*** • Laravel • Fiber  • Gin-Gonic
+   - 💾 ***Databases:*** • PostgreSQL  • MySql • FireStore(NoSql)
+   - 🎛 ***System architecture:*** • Monolithic • Microservices
+   - 🔌 ***Communication protocols:*** • REST • gRPC • Web Socket
+     
+   - 🎡 **Software Development Ecosystem:**
+     - 📁 ***Code repository:*** • Git • BitBucket • Gitlab
+     - 🗃 ***Project management:*** • Trello • Timyste  • Redmine
+     - 🗂 ***CI/CD:*** • Github Actions, • jenkins
+     - 🗃 ***DevOps:*** • Docker • Nginx
+     - 👨🏽‍💻 ***OS:*** • Linux • Windows
+     - 🔨 ***Tools:*** • Postman • Figma • Photoshop • Illustrator
+      
+    - **🗜 Principles:** •  DRY • DDD • SOLID
+    - **🕹 Frameworks:** •  SCRUM • DSDM-Atern • Waterfall-Model
+    - **🤖 Cloud Computing:** •  GCP
+    - **🏗️ Code editors:**  •  VsCode • GoLand <br>
 
-### 🗄️ Back-end:
 
-- 📜***Languages:*** • PHP • Golang
-- 🔭 ***Frameworks:*** • Laravel • Fiber  • Gin-Gonic
-- 💾 ***Databases:*** • PostgreSQL  • MySql • FireStore(NoSql)
-- 🎛 ***System architecture:*** • Monolithic • Microservices
-- 🔌 ***Communication protocols:*** • REST • gRPC • Web Socket
-  
-### 🎡 Software Development Ecosystem:
-  - 📁 **Code repository:** • Git • BitBucket • Gitlab
-  - 🗃 **Project management:** • Trello • Timyste  • Redmine
-  - 🗂 **CI/CD:** • Github Actions, • jenkins
-  - 🗃 **DevOps:** • Docker • Nginx
-  - 👨🏽‍💻 **OS:** • Linux • Windows
-  - 🔨 **Tools:** • Postman • Figma • Photoshop • Illustrator
-    
-### 🗜 Principles: 
-   -  DRY • DDD • SOLID
-
-### 🕹 Frameworks: 
-   -  SCRUM • DSDM-Atern • Waterfall-Model
-
-### 🤖 Cloud Computing: 
-   -  GCP
-
-### 🏗️ Code editors:  
-   -  VsCode • GoLand
-<br>
- 
- ## 💬 What I like to Disscuss About ?
+## 💬 What I like to Disscuss About ?
   Feel free to reach out and ask me about:
-  
   - **Web API System Design:** I'm passionate about designing scalable and robust web API architectures. Whether it's RESTful APIs or GraphQL, let's discuss best practices and optimal design patterns.
   
   - **Scalability:** If you're curious about strategies for scaling applications, optimizing performance, and handling increased loads, let's dive into the world of scalability.
@@ -101,7 +88,8 @@ To achieve my vision, I follow these steps:
   
   - **Clean Code:** Writing clean, readable, and maintainable code is crucial. If you have questions about best practices, code organization, or code reviews, let's exchange ideas on how to keep our codebases pristine.
   
-  - **Choice of Frameworks:** Choosing the right framework for a project is a critical decision. Let's discuss the strengths and weaknesses of various frameworks and how they align with specific project requirements.<br>
+  - **Choice of Frameworks:** Choosing the right framework for a project is a critical decision. Let's discuss the strengths and weaknesses of various frameworks and how they align with specific project requirements.
+    
 
 ## 🗣 What Methodology or Approach I Used Most ?
  - **[OOP](https://en.wikipedia.org/wiki/Object-oriented_programming)** (Object-Oriented Programming)
@@ -111,31 +99,26 @@ To achieve my vision, I follow these steps:
  - **[Agile & Scrum](https://www.businessnewsdaily.com/4987-what-is-agile-scrum-methodology.html)** Methodology
  
   - **[Functional](https://www.geeksforgeeks.org/functional-programming-paradigm/)** Programming
- <br>
+    
 
 ## 🤔 How I Can Help ?
-Whether you're a business looking for IT solutions or a fellow developer seeking collaboration, I'm here to help. Let's connect and discuss how we can work together to address your IT challenges. <br>
+Whether you're a business looking for IT solutions or a fellow developer seeking collaboration, I'm here to help. Let's connect and discuss how we can work together to address your IT challenges. 
+
 
 ## ⚡ Recent IT Solutions:
 Here are some recent IT solutions I've worked on:
 
-1. **[Saas Project Using Golang]:** 
+1. **Saas Project Using Golang:** 
    - **Description:** Developed a Software as a Service (SaaS) application using Golang that provides real-time collaboration tools for remote teams.
    - **Impact:** This solution streamlined team communication, resulting in a 20% increase in project efficiency.
 
-2. **[Quasar SPA]:** 
+2. **Quasar SPA:** 
    - **Brief Overview:** Created a Single Page Application (SPA) using the Quasar framework, focusing on delivering a responsive and engaging user interface.
    - **Key Features:** Implemented dynamic content loading, real-time updates, and seamless navigation for an enhanced user experience.
 
-3. **[Microservices Using Golang and gRPC]:** 
+3. **Microservices Using Golang and gRPC:** 
    - **Details on Technology Stack:** Engineered a microservices architecture using Golang and integrated gRPC for communication between services. Utilized MongoDB for data storage and Docker for containerization.
    - **Problem Addressed:** Addressed the need for scalability and improved performance in a complex system, resulting in reduced response times and enhanced system reliability.
-
-
-
-
-
-
 
 
 # 📊 My Github Stats
@@ -143,18 +126,7 @@ Here are some recent IT solutions I've worked on:
   <br/>
     <a href="https://github.com/DHasib/github-readme-stats"><img alt="DK Hasib Github Stats" src="https://github-readme-stats.vercel.app/api?username=DHasib&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/DHasib/github-readme-stats"><img alt="DK Hasib Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHasib&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
-<br/>
-
-<a href="https://github.com/DHasib/github-readme-activity-graph"><img alt="DK Hasib Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DHasib&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
+  
 ## Connect with me:
 <p align="left">
 
