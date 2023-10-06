@@ -108,7 +108,7 @@ Whether you're a business looking for IT solutions or a fellow developer seeking
 ## ⚡ What Solutions I Worked on ? :
 Here are some recent IT solutions I've worked on:
 
-1. **Saas Project Using Golang:** 
+1. **SaaS Project Using Golang:** 
    - **Description:** Developed a Software as a Service (SaaS) application using Golang that provides real-time collaboration tools for remote teams.
    - **Impact:** This solution streamlined team communication, resulting in a 20% increase in project efficiency.
 
@@ -121,7 +121,7 @@ Here are some recent IT solutions I've worked on:
    - **Problem Addressed:** Addressed the need for scalability and improved performance in a complex system, resulting in reduced response times and enhanced system reliability.
 
 
-# 📊 My Github Stats
+## 📊 My Github Stats
 
   <br/>
     <a href="https://github.com/DHasib/github-readme-stats"><img alt="DK Hasib Github Stats" src="https://github-readme-stats.vercel.app/api?username=DHasib&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
