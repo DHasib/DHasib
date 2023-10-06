@@ -101,11 +101,11 @@ To achieve my vision, I follow these steps:
   - **[Functional](https://www.geeksforgeeks.org/functional-programming-paradigm/)** Programming
     
 
-## 🤔 How I Can Help ?
+## 🤔 How I Can Help You ?
 Whether you're a business looking for IT solutions or a fellow developer seeking collaboration, I'm here to help. Let's connect and discuss how we can work together to address your IT challenges. 
 
 
-## ⚡ Recent IT Solutions:
+## ⚡ What Solutions I Worked on ? :
 Here are some recent IT solutions I've worked on:
 
 1. **Saas Project Using Golang:** 
