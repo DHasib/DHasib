@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://media.licdn.com/dms/image/D5616AQGe-vInRYc3eg/profile-displaybackgroundimage-shrink_350_1400/0/1684697475107?e=1701907200&v=beta&t=XC3tPLxk5JzBMfzulMCsVNA8akt0HKo5C5D4SoxtYdQ" height="175px"/></a>
 
-## 🙋‍♂️ Who I Am?
+## 🙋‍♂️ Who I Am ?
  - 🖥 A Graduated Software Engineer from University of Greenwich, UK
    
  - 🚀 I'm Passionate About Delivering Effective IT Solutions that Address Real-World Challenges. Here's how I contribute to solving problems:
