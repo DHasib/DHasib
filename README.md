@@ -106,8 +106,7 @@ Here are some recent IT solutions I've worked on:
    - **Problem Addressed:** Addressed the need for scalability and improved performance in a complex system, resulting in reduced response times and enhanced system reliability.
 
 
-## ⭐ I do Awesome Services for our Clients at Crafting Innovative Solutions with Code 
-
+## ⭐ I do Awesome Services for My Clients at Crafting Innovative Solutions with Code 
 <table align="left">
    <tr>
       <td>
@@ -167,7 +166,7 @@ Here are some recent IT solutions I've worked on:
   </tr>
  </table>
 
-### 🤔 Have a project on your mind ?
+### 🤔 Have a Project on Your Mind ?
 - Comprehensive software engineering services to fuel your digital success. From custom application development to robust software solutions, I deliver innovative 
   solutions that meet your business goals. Contact With Me **mdhasib522@gmail.com**
  
