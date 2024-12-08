@@ -124,16 +124,16 @@ Here are some recent IT solutions I've worked on:
    </tr>
    <tr>
       <td>
-         <p>I specialize in building tailored software solutions that align with your unique business requirements, ensuring optimal efficiency and productivity.</p>
+         <p>Custom-built solutions perfectly aligned with your business goals, boosting efficiency and productivity.</p>
       </td>
       <td>
-         <p>My expertise in mobile app development spans across iOS, Android, and cross-platform solutions. I develop intuitive and feature-rich apps that engage and delight users.</p>
+         <p>Engaging iOS, Android, and cross-platform apps crafted for intuitive use and delight at every tap.</p>
       </td>
       <td>
-         <p>From simple websites to complex web applications, I create user-friendly and scalable solutions using cutting-edge technologies for seamless user experiences.</p>
+         <p>User-focused websites and scalable web apps designed with cutting-edge tech for seamless experiences.</p>
       </td>
       <td>
-         <p>I provide comprehensive testing services to identify and resolve any issues or bugs in your software, ensuring a seamless and error-free user experience.</p>
+         <p>Comprehensive testing to ensure error-free software and a flawless user journey.</p>
       </td>
    </tr>
 </table>
@@ -147,19 +147,19 @@ Here are some recent IT solutions I've worked on:
   </tr>
   <tr>
     <td>
-       <p>I offer cloud-based solutions, leveraging platforms like AWS or GCP, to optimize scalability, security, and flexibility for your software applications.
+       <p>Secure, scalable, and flexible cloud solutions (AWS, GCP) to enhance performance and reliability.
 </p>
      </td>
       <td>
-       <p>I specialize in developing robust APIs and seamlessly integrating them with existing systems or third-party services to enhance functionality and connectivity.
+       <p>Robust APIs and smooth integrations that expand functionality and connectivity.
 </p>
      </td>
       <td>
-       <p>I streamline software development processes through DevOps practices, enabling continuous integration and delivery for faster and more reliable software releases.
+       <p>Accelerated releases and improved reliability through streamlined DevOps practices and continuous delivery.
 </p>
      </td>
       <td>
-       <p>I provide ongoing maintenance and support services to ensure your software operates smoothly, remains up-to-date, and promptly addresses any issues that arise.
+       <p>Ongoing care to keep your software up-to-date, stable, and running at peak performance.
 </p>
      </td>
    
