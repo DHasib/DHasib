@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://media.licdn.com/dms/image/D5616AQGe-vInRYc3eg/profile-displaybackgroundimage-shrink_350_1400/0/1684697476751?e=1712793600&v=beta&t=JXBqsZs0J_ptRdujXDayx6Yc_x0-yuFmKQPq61oSOR4" /></a>
+<a href="#"><img width="100%" height="auto" src="[https://media.licdn.com/dms/image/D5616AQGe-vInRYc3eg/profile-displaybackgroundimage-shrink_350_1400/0/1684697476751?e=1712793600&v=beta&t=JXBqsZs0J_ptRdujXDayx6Yc_x0-yuFmKQPq61oSOR4](https://www.canva.com/design/DAFjk-GHYXk/5uyfBcEljg5ii3Nd_bSAog/edit?utm_content=DAFjk-GHYXk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)" /></a>
 
 ## 🙋‍♂️ Who I Am ?
  - 🖥 A Graduated Software Engineer from University of Greenwich, UK
