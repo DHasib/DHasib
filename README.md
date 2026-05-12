@@ -1,201 +1,160 @@
-<a href="#"><img width="100%" height="auto" src="[https://media.licdn.com/dms/image/D5616AQGe-vInRYc3eg/profile-displaybackgroundimage-shrink_350_1400/0/1684697476751?e=1712793600&v=beta&t=JXBqsZs0J_ptRdujXDayx6Yc_x0-yuFmKQPq61oSOR4](https://www.canva.com/design/DAFjk-GHYXk/5uyfBcEljg5ii3Nd_bSAog/edit?utm_content=DAFjk-GHYXk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)" /></a>
+<h1 align="center">Hi, I'm Md Hasib 👋</h1>
+<h3 align="center">End-to-End Software Engineer | Web API & SaaS Developer | DevOps Enthusiast</h3>
 
-## 🙋‍♂️ Who I Am ?
- - 🖥 A Graduated Software Engineer from University of Greenwich, UK
-   
- - 🚀 I'm Passionate About Delivering Effective IT Solutions that Address Real-World Challenges. Here's how I contribute to solving problems:
-   
-   1. **Client-Centric Approach:** I prioritize understanding the unique needs of clients and businesses, ensuring that the solutions provided align with their goals and 
-       objectives.
-   2. **Innovation and Technology:** I leverage the latest technologies and innovative approaches to develop IT solutions that are not only efficient but also scalable and future-proof.
-   3. **Problem-Solving Mindset:** I thrive on solving complex problems through strategic thinking, coding expertise, and a deep understanding of industry best practices.
-   4. **Collaboration and Communication:** I believe in transparent and open communication throughout the development process. Collaborating with stakeholders and team members is essential to delivering successful IT solutions.
-   5. **User Experience:** I place a strong emphasis on user experience, designing interfaces and systems that are intuitive, user-friendly, and tailored to the specific needs of end-users.
-
-  
-## 🔭 What I'm Doing ?
-  - 🏢 I’m Currently Working as an End-to-End Software Engineer for USA, UK, AUS & Canadian Clients. (Freelance Based)
-  
-  - 🌱 I'm Always Eager to Learn New Technologies and Improve my Skills. Currently, I'm Focused on:
-     - ***Data Structures and Algorithms.***
-     - ***DevOps Practices.***
-     - ***Clean Code.***
-     - ***Test Driven Development (TDD).***
-     - ***Domain Driven Development (DDD).***
-     - ***SOLID Principle and Software Design Patterns.***
-     
-   - 🛠️ Working on Web Development, Server Deployment, Web API, SaaS Application and Micro-Services Professionally.
-
-   - 👯 I’m looking to Collaborate on **OpenSource Projects**
-
-   - 📫 How to Reach me **mdhasib522@gmail.com**
-
-   - ⚡ Fun fact ***I play games and love to spent time in my birds aviary.***
-     
-   - 🌍 Mostly active on [LinkedIn](https://www.linkedin.com/in/md-hasib-50030713a).
-
-
-## 🎯 What is My Vision ?
-My vision is to contribute to building scalable and innovative solutions that make a positive impact on people's lives. I believe in the power of technology to solve complex problems and I'm committed to creating software that is not only functional but also user-friendly and elegant.
-
-
-## 🛣️ What Steps did I Take to Achieve My Vision?
-To achieve my vision, I follow these steps:
-1. **Continuous Learning:** Stay updated with the latest technologies and best practices.
-2. **Collaboration:** Actively participate in open-source projects and collaborate with other developers.
-3. **Mentoring:** Share my knowledge and mentor aspiring developers.
-4. **User-Centric Design:** Prioritize user experience and design in software development.
-5. **Community Involvement:** Contribute to the tech community through events, workshops, and discussions.
-
-
-## 🤔 What My Skill Set Looks Like?
-- 🖥 **Front-end:**
-   - 📜 ***Languages:*** • 🧙🏻 JavaScript • 🧚🏻‍♂️ HTML • 👨🏻‍🎨 CSS
-   - 🔬 ***Frameworks:***
-     - 🌐 **Web:** • Vue.js • Bootstrape • Tailwind
-     - 📱 **Mobile:** • Quasar.js
-
-- 🗄️ **Back-end:**
-   - 📜***Languages:*** • PHP • Golang
-   - 🔭 ***Frameworks:*** • Laravel • Fiber  • Gin-Gonic
-   - 💾 ***Databases:*** • PostgreSQL  • MySql • FireStore(NoSql)
-   - 🎛 ***System architecture:*** • Monolithic • Microservices
-   - 🔌 ***Communication protocols:*** • REST • gRPC • Web Socket
-     
-   - 🎡 **Software Development Ecosystem:**
-     - 📁 ***Code repository:*** • Git • BitBucket • Gitlab
-     - 🗃 ***Project management:*** • Trello • Timyste  • Redmine
-     - 🗂 ***CI/CD:*** • Github Actions, • jenkins
-     - 🗃 ***DevOps:*** • Docker • Nginx
-     - 👨🏽‍💻 ***OS:*** • Linux • Windows
-     - 🔨 ***Tools:*** • Postman • Figma • Photoshop • Illustrator
-      
-    - **🗜 Principles:** •  DRY • DDD • SOLID
-    - **🕹 Frameworks:** •  SCRUM • DSDM-Atern • Waterfall-Model
-    - **🤖 Cloud Computing:** •  GCP
-    - **🏗️ Code editors:**  •  VsCode • GoLand 
-    
-
-## 🗣 What Methodology or Approach I Used Most ?
- - **[OOP](https://en.wikipedia.org/wiki/Object-oriented_programming)** (Object-Oriented Programming)
-
-- **[OOAD](https://en.wikipedia.org/wiki/Object-oriented_analysis_and_design)** (Object-Oriented Analysis and Design)
-
- - **[Agile & Scrum](https://www.businessnewsdaily.com/4987-what-is-agile-scrum-methodology.html)** Methodology
- 
-  - **[Functional](https://www.geeksforgeeks.org/functional-programming-paradigm/)** Programming
-    
-
-## 🤔 How I Can Help You ?
-Whether you're a business looking for IT solutions or a fellow developer seeking collaboration, I'm here to help. Let's connect and discuss how we can work together to address your IT challenges. 
-
-
-## ⚡ What Solutions I Worked on ? :
-Here are some recent IT solutions I've worked on:
-
-1. **SaaS Project Using Golang:** 
-   - **Description:** Developed a Software as a Service (SaaS) application using Golang that provides real-time collaboration tools for remote teams.
-   - **Impact:** This solution streamlined team communication, resulting in a 20% increase in project efficiency.
-
-2. **Quasar SPA:** 
-   - **Brief Overview:** Created a Single Page Application (SPA) using the Quasar framework, focusing on delivering a responsive and engaging user interface.
-   - **Key Features:** Implemented dynamic content loading, real-time updates, and seamless navigation for an enhanced user experience.
-
-3. **Microservices Using Golang and gRPC:** 
-   - **Details on Technology Stack:** Engineered a microservices architecture using Golang and integrated gRPC for communication between services. Utilized MongoDB for data storage and Docker for containerization.
-   - **Problem Addressed:** Addressed the need for scalability and improved performance in a complex system, resulting in reduced response times and enhanced system reliability.
-
-
-## ⭐ I do Awesome Services for My Clients at Crafting Innovative Solutions with Code 
-<table align="left">
-   <tr>
-      <td>
-         <h4>Software Development</h4>
-      </td>
-      <td>
-         <h4>Mobile Application</h4>
-      </td>
-      <td>
-         <h4>Web Development</h4>
-      </td>
-      <td>
-         <h4>Testing and Quality Assurance</h4>
-      </td>
-   </tr>
-   <tr>
-      <td>
-         <p>Custom-built solutions perfectly aligned with your business goals, boosting efficiency and productivity.</p>
-      </td>
-      <td>
-         <p>Engaging iOS, Android, and cross-platform apps crafted for intuitive use and delight at every tap.</p>
-      </td>
-      <td>
-         <p>User-focused websites and scalable web apps designed with cutting-edge tech for seamless experiences.</p>
-      </td>
-      <td>
-         <p>Comprehensive testing to ensure error-free software and a flawless user journey.</p>
-      </td>
-   </tr>
-</table>
-
- <table align="left">
-  <tr>
-    <td><h4>Cloud Computing Solutions</h4></td>
-    <td><h4>API Development and Integration</h4></td>
-    <td><h4>DevOps and CI/CD</h4></td>
-    <td><h4>Maintenance and Support</h4></td>
-  </tr>
-  <tr>
-    <td>
-       <p>Secure, scalable, and flexible cloud solutions (AWS, GCP) to enhance performance and reliability.
-</p>
-     </td>
-      <td>
-       <p>Robust APIs and smooth integrations that expand functionality and connectivity.
-</p>
-     </td>
-      <td>
-       <p>Accelerated releases and improved reliability through streamlined DevOps practices and continuous delivery.
-</p>
-     </td>
-      <td>
-       <p>Ongoing care to keep your software up-to-date, stable, and running at peak performance.
-</p>
-     </td>
-   
-  </tr>
- </table>
-
-### 🤔 Have a Project on Your Mind ?
-- Comprehensive software engineering services to fuel your digital success. From custom application development to robust software solutions, I deliver innovative 
-  solutions that meet your business goals. Contact With Me **mdhasib522@gmail.com**
- 
-
-## 💬 What I like to Disscuss About ?
-  Feel free to reach out and ask me about:
-  - **Web API System Design:** I'm passionate about designing scalable and robust web API architectures. Whether it's RESTful APIs or GraphQL, let's discuss best practices and optimal design patterns.
-  
-  - **Scalability:** If you're curious about strategies for scaling applications, optimizing performance, and handling increased loads, let's dive into the world of scalability.
-  
-  - **Design Patterns:** I love exploring different design patterns and their practical applications in software development. Let's chat about how design patterns can enhance the maintainability and flexibility of your codebase.
-  
-  - **Data Structures:** Whether it's algorithms, data structures, or optimizing code for efficiency, I'm always up for a conversation about structuring data to meet specific needs.
-  
-  - **Clean Code:** Writing clean, readable, and maintainable code is crucial. If you have questions about best practices, code organization, or code reviews, let's exchange ideas on how to keep our codebases pristine.
-  
-  - **Choice of Frameworks:** Choosing the right framework for a project is a critical decision. Let's discuss the strengths and weaknesses of various frameworks and how they align with specific project requirements.
-
-
-## 📊 My Github Stats
-
-  <br/>
-  <a href="https://github.com/DHasib/github-readme-stats"><img alt="DK Hasib Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHasib&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  
-## Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/md-hasib-50030713a/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-
+<p align="center">
+  <a href="mailto:mdhasib522@gmail.com"><img src="https://img.shields.io/badge/Email-mdhasib522%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/md-hasib-50030713a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/DHasib"><img src="https://img.shields.io/badge/GitHub-DHasib-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
+---
 
+## 🙋‍♂️ About Me
+
+I am a **Software Engineering graduate from the University of Greenwich, UK**, currently working as an **End-to-End Software Engineer** for clients in the **USA, UK, Australia, and Canada**.
+
+I enjoy designing and building practical software solutions that solve real-world problems, with a strong focus on clean architecture, scalability, maintainability, and user experience.
+
+- 🔭 Working on **web applications, APIs, SaaS platforms, microservices, and server deployments**
+- 🌱 Currently improving my skills in **Data Structures & Algorithms, DevOps, Clean Code, TDD, DDD, SOLID principles, and Design Patterns**
+- 👯 Open to collaborating on **open-source projects**
+- 💬 Ask me about **Web API design, scalability, clean code, software architecture, and framework choices**
+- ⚡ Fun fact: I enjoy gaming and spending time in my birds aviary
+- 📫 Reach me at **mdhasib522@gmail.com**
+
+---
+
+## 🎯 My Vision
+
+My vision is to contribute to scalable and innovative software solutions that make a positive impact on people's lives. I believe technology can solve complex problems, improve business efficiency, and create better user experiences.
+
+### How I Work Toward This Vision
+
+1. **Continuous Learning** — Staying up to date with modern technologies and engineering best practices.
+2. **Collaboration** — Contributing to open-source projects and working closely with developers, clients, and stakeholders.
+3. **Mentoring** — Sharing knowledge and supporting aspiring developers.
+4. **User-Centric Design** — Building solutions that are intuitive, accessible, and useful.
+5. **Community Involvement** — Participating in tech communities, discussions, and knowledge-sharing activities.
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Quasar-1976D2?style=flat-square&logo=quasar&logoColor=white" alt="Quasar" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Fiber-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Fiber" />
+  <img src="https://img.shields.io/badge/Gin-008ECF?style=flat-square&logo=go&logoColor=white" alt="Gin" />
+  <img src="https://img.shields.io/badge/gRPC-4285F4?style=flat-square&logo=google&logoColor=white" alt="gRPC" />
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=fastapi&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSocket" />
+</p>
+
+### Databases & Cloud
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firestore" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+</p>
+
+### DevOps, Tools & Workflow
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+</p>
+
+---
+
+## 🧠 Methodologies & Principles
+
+- **Object-Oriented Programming (OOP)**
+- **Object-Oriented Analysis and Design (OOAD)**
+- **Agile & Scrum**
+- **Functional Programming**
+- **DRY, SOLID, DDD, TDD, and Clean Code**
+- **Monolithic and Microservices Architecture**
+
+---
+
+## 🚀 Services I Provide
+
+| Software Development | Mobile Applications | Web Development | Testing & QA |
+| --- | --- | --- | --- |
+| Custom-built solutions aligned with business goals. | Cross-platform applications with intuitive user experiences. | Scalable websites and web applications using modern technologies. | Comprehensive testing for reliable, stable, and maintainable software. |
+
+| Cloud Solutions | API Development | DevOps & CI/CD | Maintenance & Support |
+| --- | --- | --- | --- |
+| Secure and scalable cloud-based solutions. | Robust APIs and integrations for connected systems. | Faster releases and better reliability through automation. | Ongoing improvements, bug fixes, and performance optimization. |
+
+---
+
+## ⚡ Solutions I Have Worked On
+
+### SaaS Application Using Golang
+
+Developed a Software as a Service platform using **Golang**, focused on real-time collaboration and scalable backend architecture.
+
+**Impact:** Improved team communication and increased project efficiency.
+
+### Quasar Single Page Application
+
+Built a responsive **Quasar SPA** with dynamic content loading, smooth navigation, and a strong focus on user experience.
+
+### Microservices with Golang and gRPC
+
+Designed and implemented a **microservices architecture** using **Golang, gRPC, Docker, and database-backed services** to improve performance, reliability, and scalability.
+
+---
+
+## 💬 Topics I Enjoy Discussing
+
+- **Web API System Design** — REST, GraphQL, scalability, versioning, and best practices
+- **Scalability** — Performance optimization, load handling, and system reliability
+- **Design Patterns** — Practical patterns for maintainable and flexible software
+- **Data Structures & Algorithms** — Writing efficient and optimized code
+- **Clean Code** — Code quality, readability, testing, and maintainability
+- **Framework Selection** — Choosing the right technology for each project
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DHasib&show_icons=true&theme=tokyonight&hide_border=true" alt="DHasib GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHasib&layout=compact&theme=tokyonight&hide_border=true" alt="DHasib Top Languages" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+If you are a business looking for reliable software solutions or a developer interested in collaboration, feel free to reach out.
+
+<p align="center">
+  <a href="mailto:mdhasib522@gmail.com"><img src="https://img.shields.io/badge/Email-mdhasib522%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/md-hasib-50030713a/"><img src="https://img.shields.io/badge/LinkedIn-Md%20Hasib-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
